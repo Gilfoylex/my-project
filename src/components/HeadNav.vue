@@ -91,8 +91,9 @@ export default {
   .grid-content {
     z-index: 999;
     position: fixed;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     width: 50%;
+    top: 0px;
   }
   .head-logo {
     width: 50px;
